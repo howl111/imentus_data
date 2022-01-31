@@ -1,0 +1,15 @@
+[package]
+authors = ["Analog Maintainers <maintainers@analog.com>"]
+description = "Blockchain, Rebuilt for Scale"
+edition = "2018"
+homepage = "https://analog.com/"
+license = "Apache-2.0"
+name = "proto"
+publish = false
+repository = "https://github.com/analog-labs/analog"
+version = "1.9.0"
+
+[workspace]
+
+[dependencies]
+tonic-build = "0.6.0"

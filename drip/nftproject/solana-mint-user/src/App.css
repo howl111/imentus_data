@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.small {
+  width: 400px;
+  height: 400px;
+}
+
+.rowcard {
+  display: flex;
+  flex-direction: row !important;
+}
+
+.stake {
+  width: 650px;
+  margin: auto auto;
+}
+
+.pagetitle {
+  font-size: 34px;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.mintbtn {
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+}
+
+.flex > * {
+  margin-left: 4px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.rightside {
+  position: absolute;
+  right: 50px;
+}
+
+.gap {
+  margin: 10px;
+}
+
+.nftcard {
+  margin: 0 auto;
+}
+
+
+
+
+.card-body > a {
+  margin-right: 10px;
+}
+.logo {
+  width: 200px;
+  margin-right: 25px;
+  height: 50px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

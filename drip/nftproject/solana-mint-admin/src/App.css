@@ -1,0 +1,188 @@
+.App {
+  display: grid;
+  grid-template-rows: 300px 400px;
+  grid-template-columns: 300px 800px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.login {
+  width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.login label {
+  text-align: left;
+}
+
+.progress {
+  margin-top: 40px;
+}
+
+.ptitle {
+  margin-top: 40px;
+}
+
+.widthcontent {
+  width: 100px !important;
+}
+
+.widthcontent > * {
+  border-color: white !important;
+  margin-bottom: 15px;
+}
+
+.choicecontent {
+  width: 500px !important;
+}
+
+.choicecontent > * {
+  display: flex !important;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.manageheader {
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 15px;
+}
+
+.flexible-gap {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+.manageheader > .btn {
+  margin-left: 15px;
+}
+
+.logo {
+  width: 200px;
+  margin-right: 25px;
+  height: 50px;
+}
+
+.wallet {
+  display: flex;
+  justify-content: space-around;
+}
+
+.wallet-adapter-button {
+  margin-right:10px;
+}
+
+.card-body > a {
+  margin-right: 10px;
+}
+
+.manageheader > p {
+  margin-right: 15px;
+  font-size: 25px;
+}
+
+.row > .btn {
+  margin-left: 15px;
+}
+
+.grid {
+  display: grid;
+  grid-template-rows: min-content;
+  grid-template-columns: 200px 200px 200px;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  height: max-content;
+}
+
+.link {
+  text-decoration: none;
+  margin-top: 10px;
+  font-size: 20px;
+  color: black;
+}
+
+.card {
+  border-radius: 10px;
+  border-color: lightgrey;
+}
+
+.cardform {
+  padding:35px !important;
+}
+
+.pagetitle {
+  margin-top:15px;
+  font-size: 30px;
+}
+
+.drawer {
+  color: black;
+  margin: 15px;
+  font-size: 25px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.gridsm {
+  display: grid;
+  grid-template-rows: 50px 50px 50px;
+  grid-template-columns: 150px 150px 150px;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px
+}
+
+.card {
+  padding: 10px;
+  height: fit-content;
+}
+
+.collectionname {
+  font-size: 30px;
+}
+
+.collectionnav {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.collectionnav > .btn {
+  margin-left: 50px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,29 @@
+[package]
+name = "analog-cargo-build-bpf"
+version = "1.9.0"
+description = "Compile a local package and all of its dependencies using the Analog BPF SDK"
+authors = ["Analog Maintainers <maintainers@analog.foundation>"]
+repository = "https://github.com/analog-labs/analog"
+homepage = "https://analog.com/"
+license = "Apache-2.0"
+edition = "2018"
+publish = false
+
+[dependencies]
+bzip2 = "0.4.3"
+clap = "2.33.3"
+regex = "1.5.4"
+cargo_metadata = "0.14.1"
+analog-sdk = { path = "..", version = "=1.9.0" }
+analog-download-utils = { path = "../../download-utils", version = "=1.9.0" }
+tar = "0.4.37"
+
+[dev-dependencies]
+serial_test = "*"
+
+[features]
+program = []
+
+[[bin]]
+name = "cargo-build-bpf"
+path = "src/main.rs"

@@ -1,0 +1,16 @@
+anchor_version = "0.16.2"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/imentus/.config/solana/id.json"
+
+[programs.devnet]
+jet = "4FFEErnAE8sgfiZRnkN9dRqEJMLpJg9QSxhk3wTspRt8"
+test_writer = "test2Jds58cDo5cGk8eLFbdhW2doamw9xDAYKjTkbW5"
+
+[[test.genesis]]
+address = "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+program = "./deps/serum_dex.so"
+
+[scripts]
+test = "scripts/run-integ-tests.sh"

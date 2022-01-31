@@ -1,0 +1,8 @@
+Streaming transaction logs mentioning 5EuBaKR3uorectXe12JtxtNF6EeLGaUG2PiC6SGzEPeT. Confirmed commitment
+Transaction executed in slot 44923:
+  Signature: 5fffFaCkEJPgjQnt5YNdaCdC5hS4WHzkP4gT2PtWA9ewzVXAugfDk1aU5Ni8d5j4db5PyzKGZnLEhAfkY4R7Zhtt
+  Status: Ok
+  Log Messages:
+    Program 5EuBaKR3uorectXe12JtxtNF6EeLGaUG2PiC6SGzEPeT invoke [1]
+    Program 5EuBaKR3uorectXe12JtxtNF6EeLGaUG2PiC6SGzEPeT consumed 355 of 200000 compute units
+    Program 5EuBaKR3uorectXe12JtxtNF6EeLGaUG2PiC6SGzEPeT success

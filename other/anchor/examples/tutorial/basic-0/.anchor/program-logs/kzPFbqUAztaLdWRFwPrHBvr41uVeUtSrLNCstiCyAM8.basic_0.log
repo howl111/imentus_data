@@ -1,0 +1,9 @@
+Streaming transaction logs mentioning kzPFbqUAztaLdWRFwPrHBvr41uVeUtSrLNCstiCyAM8. Confirmed commitment
+Transaction executed in slot 2:
+  Signature: 5tkvZpf7CkTqcLspW9kMNLuZiJ9tiq2aUVfKKR6umxY2rBUdBu2yRbrWqV4bJJTuoYECBwJ7dT9DBDa5cgYmXWJJ
+  Status: Ok
+  Log Messages:
+    Program kzPFbqUAztaLdWRFwPrHBvr41uVeUtSrLNCstiCyAM8 invoke [1]
+    Program log: Instruction: Initialize
+    Program kzPFbqUAztaLdWRFwPrHBvr41uVeUtSrLNCstiCyAM8 consumed 382 of 200000 compute units
+    Program kzPFbqUAztaLdWRFwPrHBvr41uVeUtSrLNCstiCyAM8 success

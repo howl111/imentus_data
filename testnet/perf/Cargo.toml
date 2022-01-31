@@ -1,0 +1,43 @@
+[package]
+name = "analog-perf"
+version = "1.9.0"
+description = "Analog Performance APIs"
+authors = ["Analog Maintainers <maintainers@analog.foundation>"]
+repository = "https://github.com/analog-labs/analog"
+license = "Apache-2.0"
+homepage = "https://analog.com/"
+documentation = "https://docs.rs/analog-perf"
+edition = "2018"
+
+[dependencies]
+bincode = "1.3.3"
+curve25519-dalek = { version = "3" }
+dlopen = "0.1.8"
+dlopen_derive = "0.1.4"
+lazy_static = "1.4.0"
+log = "0.4.14"
+rand = "0.7.0"
+rayon = "1.5.1"
+serde = "1.0.130"
+analog-logger = { path = "../logger", version = "=1.9.0" }
+analog-metrics = { path = "../metrics", version = "=1.9.0" }
+analog-sdk = { path = "../sdk", version = "=1.9.0" }
+analog-vote-program = { path = "../programs/vote", version = "=1.9.0" }
+analog-rayon-threadlimit = { path = "../rayon-threadlimit", version = "=1.9.0" }
+
+[target."cfg(target_os = \"linux\")".dependencies]
+caps = "0.5.3"
+libc = "0.2.107"
+nix = "0.23.0"
+
+[lib]
+name = "analog_perf"
+
+[dev-dependencies]
+matches = "0.1.9"
+
+[[bench]]
+name = "sigverify"
+
+[package.metadata.docs.rs]
+targets = ["x86_64-unknown-linux-gnu"]

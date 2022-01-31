@@ -1,0 +1,18 @@
+[package]
+name = "analog-rayon-threadlimit"
+version = "1.9.0"
+description = "analog-rayon-threadlimit"
+homepage = "https://analog.com/"
+documentation = "https://docs.rs/analog-rayon-threadlimit"
+readme = "../README.md"
+repository = "https://github.com/analog-labs/analog"
+authors = ["Analog Maintainers <maintainers@analog.foundation>"]
+license = "Apache-2.0"
+edition = "2018"
+
+[dependencies]
+num_cpus = "1.13.0"
+lazy_static = "1.4.0"
+
+[package.metadata.docs.rs]
+targets = ["x86_64-unknown-linux-gnu"]

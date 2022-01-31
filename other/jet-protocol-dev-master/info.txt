@@ -1,0 +1,7 @@
+Wrote new keypair to id.json
+==================================================================================
+pubkey: GruSFAjP7gtmJ9k3SBAiCrMXyUByGJKR885MhKWM9KJD
+==================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+drip comfort episode upper journey document water disagree thing holiday joke plug
+==================================================================================

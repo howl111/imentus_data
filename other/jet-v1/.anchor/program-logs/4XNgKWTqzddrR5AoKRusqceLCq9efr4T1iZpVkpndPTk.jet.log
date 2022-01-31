@@ -1,0 +1,3106 @@
+Streaming transaction logs mentioning 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk. Confirmed commitment
+Transaction executed in slot 8:
+  Signature: 2tnRPkPE35rHM3FHVkr9MvL58U7K8H5UWC7XvHuJFZxbLTLVcSuF3eUqAvpBYhudZ1pVCTEq4wXWBeB7QWkPMejh
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: market initialized with currency LTD
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 3887 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 23:
+  Signature: 462mFrwxv92EbXAUYeUQ4d6wU7yL55YYYHdivsgTMo6FzrYDDhfoGGhh9Jqgh6YRmQ5HUYDfA4HhxGLYGuifn6pg
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 167813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 136993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #0
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 130590 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 126103 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 121106 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 83623 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 24:
+  Signature: 42R88UXSUAoQbfCp25qSFKaqUVrwbmhD377H5cHh4TmjuLniEDjK5Wgm1UUU2Bpd77KkP16LZcwsu8E7H5EV6Jv2
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189413 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 167966 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: registered reserve #1
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 130352 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 125865 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 120868 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 83819 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 25:
+  Signature: 2Psax9wi2qJ1iBmqVQLa4rSU5x4Mfz2LKfoUuHgFoMzykAjPq1u5Pi8H9oafSiRxyuzup48U2MCPtQrDzW8AmJ5f
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 172313 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 144493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 137995 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 133508 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 128511 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 76218 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 25:
+  Signature: 5Trz2fyLs1XAZZ59FKHrDdCsvueFTct7PTSUGaSB82cM6Gn1uC8X4og9c33jnXTDd2CQgomzYDYE1XDgyVPjVL89
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 170813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 135493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 128948 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 124461 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 119464 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 85265 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 34:
+  Signature: 5FDzFP356puSC7JhWiEZRPYkRGXBfuCrjPj77VSSDkmrkFzLL9LnqvMHECujDXFVmskA2maKKrP4bjVHPyfZ52aA
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 155151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 149567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 165244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 34:
+  Signature: 3hfXaGuavWK2vVUoj26e95JhVzeyRjqDZuFxn8sQyA77yyTrMoMhgj2UAU4rnRw24dtgtSxMLhP65UnxhJiSZT51
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 155151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 149567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 165244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 34:
+  Signature: 5C4smMzdKzfkA4Kt1Hhw5uUR5PojT4N8cjusXLatXqBdiBhCREwRpLyBhiNUn3jMdvka7BnPTcf8J8QVsxraeyga
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 180068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150651 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 145067 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 160744 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 34:
+  Signature: 49CuqhCzh2SaaAuJyGrWqCvrDFTGBuRd3r4hFRxnXq4W3LtUosS8W63FpkdFBxPcdp1VQzUdFEcqVXDjq4hF5zHg
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 153647 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 148063 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19277 of 163744 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 35:
+  Signature: 5wMYWiJG5NmNV4cGjcAmUvdwrfn3GxEcDQdWRExHRW7U48u1fb9rBfxyj3EJ2M3u7GPWEwojPecoZ88CaSUdDwta
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24145 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150321 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 144737 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19282 of 160423 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 35:
+  Signature: 2Kq5jPujfmHqBn5jB9cjxhChNuDnjuvKNxCS8yunYSzhEb9hsijAfD4P66c3UPiwvWSg7WeNru1ZsxxcdvCP4GNq
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 148843 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 143259 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 158936 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 35:
+  Signature: 439imXqqVwFS2T4xgzXBrRffvmnzUuCLx6GF8Sd2NBbCH7mKLci8ne3Qs8H1nTDofjVkmbT9897yyghbmrpNgX4a
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 148839 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 143255 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19277 of 158936 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 35:
+  Signature: 2FrX63VebU4f3xbjdxeBPrVo2oCayVnfUJ3GVm5yk8ioXB1v328AFHArpN5wCmoFH6HpQ6EX8h2jtc3rrzA4qjA5
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150343 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 144759 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 160436 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 36:
+  Signature: 57Ubm12x1cmjZatDpkvYGPtWzDdMGP51FFRuJKyyfjJai1oHzaaXYZq2rT8AuDZ6D2GPXWydrkBkHFe8gQ6JGzn7
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 157019 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 151435 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 167112 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 36:
+  Signature: 5GtsELjAzfvEnUrKXDt22kAqZW8qjYrcHTMkB6H69sUZa5mpMs4Ma5D5i4PbmVQ3q9W4xWVWSRjTUWAFzjTrf8yX
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17469 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 157006 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 151422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 167099 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 36:
+  Signature: 5NkiUSjuWu65WJpd5HdFjeWAWzksqQQFbogHpE3NXdPZnM7ZWvYhDotVxNFNLjsbTk75NHSR6Ent7ADx8WuhFuk9
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 157019 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 151435 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 167112 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 36:
+  Signature: 3iRQg28GFhMpLQ6txEQW5JWthT7mgqVcVcJKtBc7VPD6CJBofQWc6nyS2ERJcLNLXSJfqmUeD6u6yUwNv8KLo4HY
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 21432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 178568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 151015 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 145431 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19277 of 161112 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 37:
+  Signature: 5StMuNqv2ekzkvjCV3uRFJgcGRf4519yuJNzz6iZzQXBzzeFtMbpzrGyEodAg89cvTxhJdKrctRRE3EFJgKkEEgh
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150339 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 144755 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19277 of 160436 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 37:
+  Signature: 3oNLb4hoAY6GSPxRV5YzuWTNy4yppuYcJxvTpPux7aUrxaEnxbViMtkcxezeU3J8hTaybm8i8HoHAb9jRSWUDh36
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 148843 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 143259 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 158936 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 37:
+  Signature: 39CEzUh8umMHwVsAfG1ZdegD1ms77VFxg6QTUe6LSTEhSAQkGYjVQYLcaXCwmSbKJyzx7u4UcCM78ae9HaPmgyKu
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150343 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 144759 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 160436 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 37:
+  Signature: 3AHh49CHdjD7bzP4dsgxTrqHzhgKrUqpPLvVqf7MKshgv4vxPqCuNkP24rCNmAsPJYz3kz36Hah2rXK5AuZXUoE2
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 21432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 178568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 144343 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 138759 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 154436 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 38:
+  Signature: dT8BmrJb6UgFMsnbZYVEZA7n9jmfgGCjzRBQmeEby4M7EBrjJ5BQAhQYAd2cz248xfwedipLd6mBbk69hFuymYM
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 10878 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 180542 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18280 of 189122 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17469 of 170842 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 141721 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuu2FuTtYP6QQXZygjRuwj4KbCR5fDaed/DERzZgBRnhG2CMgIpNYG+lFxdOHPXSFDLq3EA8HlYrD8E0qX0N6HayAADodkgXAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17868 of 153373 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 38:
+  Signature: 4AtrSdUhJbScGGzCLocJZoSv3n3NzWyHFbzD3jt2RzgNbovSyXaJLhMcjR97a5MLaSt9hmBSs2WMo9ugtMTF1xfN
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 7878 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 183542 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16723 of 192122 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 175399 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 146295 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuvw8AGvEkHNVNGfCZBGo+H32ORUruNz12Utg1fAlKLSNClkEwwFovk6ZGuEpYkhH57HHXDOycw07bpoMYRuFe0gAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17864 of 157943 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 38:
+  Signature: 37X3eSDyNik5om5ZPJ8D8WVHfLzLmNCdjtw4ygCeEaWNyfFiEe2ZeXRwunSBPiQVNXxWrXWNPm7jzzrM5cRNCeJj
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 9378 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 182042 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19723 of 190622 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 170899 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 141795 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuIdeTOTMQoKkZfTtjgZuDlYnAqgYWihYNJayjUsmMnF27Fwxw/arlEGYui7aDR8qr1KUkib/W5GUNRM2Jj103OAADWEX4DAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17864 of 153443 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 38:
+  Signature: 5Up35XtAxNkZivtNXg1qRcnDUBqL5ZPWgwRDEcGncT29u5cTJoRwNU8dDE3wsxo5jzGyS4pFpusgDTpSwLXaLY5x
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 7878 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 183542 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 25723 of 192122 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 166399 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 137295 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEut1vfxx65HHYJVBBF0alI57bG7YicXXf05kfCjXJ43+owsyOylMG3MeEksif3ls/3RN7g0+POVTGPFnxtk0F2aRAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17865 of 148943 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 39:
+  Signature: 5CKgCit73aoEsC7TrhAcH7Gz9bhjZVYLhdgFqhQ6f2U6V5MgUkRiDQRQ7xpyTxxQbwLNzU3d4DZPsXWQWv3itvAA
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized loan account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16814 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17469 of 183186 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 152071 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 140599 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: VgiMztezdsl1vfxx65HHYJVBBF0alI57bG7YicXXf05kfCjXJ43+o2CMgIpNYG+lFxdOHPXSFDLq3EA8HlYrD8E0qX0N6HaygHqkVAIAAAA=
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 30755 of 165717 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 39:
+  Signature: 5ggjq8XjQhpbvh8QvFyhckzWN9NMwvkg825DdbB61bogaB7fp2NEttUpMmm2FrfFqaWvRHMD3sYs3xxFDRBBgFmS
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized loan account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18257 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 181743 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 150653 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 139169 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: VgiMztezdsmIdeTOTMQoKkZfTtjgZuDlYnAqgYWihYNJayjUsmMnFylkEwwFovk6ZGuEpYkhH57HHXDOycw07bpoMYRuFe0gQAyqOwAAAAA=
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 30755 of 164287 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 39:
+  Signature: 6xgZWsqcsJZqedkia1DH2yUAtsuZp9FKqgG5tpmmmN5kv6pAz2mZvFkcMPd5g6UKSBHMaYdWXnzP6Wcms6e9Xou
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized loan account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18257 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 181743 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 150644 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 139135 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: VgiMztezdsnw8AGvEkHNVNGfCZBGo+H32ORUruNz12Utg1fAlKLSNAsyOylMG3MeEksif3ls/3RN7g0+POVTGPFnxtk0F2aRgCXbMwAAAAA=
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 30789 of 164287 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 39:
+  Signature: 3z3NkbNxVbiVPWnYjfwfei86scEbEojqG46Ny8odR4gebgmwAS3cq7boy4unsU3o8DYw7QC13bvydbQhyrusZdqr
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized loan account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16757 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 183243 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 152153 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 140681 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: VgiMztezdsm2FuTtYP6QQXZygjRuwj4KbCR5fDaed/DERzZgBRnhG27Fwxw/arlEGYui7aDR8qr1KUkib/W5GUNRM2Jj103OQAyqOwAAAAA=
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 30743 of 165787 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 41:
+  Signature: 4KhZi8kYWJKDY69VUagX8iwzumn4SnnW7r9k5dyijzgrGeerMvBopoPjYiFxupB573zApDPzHmL9dqni68vzPESp
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 27372 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 142124 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34112 of 172628 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: attempting liquidation
+    Program log: ready to liquidate
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 76197 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 15515 of 87452 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 55672 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 49851 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 19630 of 65488 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: collateral sold
+    Program log: swap is ok
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 30842 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 25057 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: liquidation complete!
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 118429 of 138516 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 43:
+  Signature: 5tSkAhcaBwZ5mgNwZmVaunvaSAPqj2j4Nzp5huHDQ6D8KzKZFwFXc1n4sXmuE4AVc4bMWDRounvurKBYdc4qaXET
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169503 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34105 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 135373 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34130 of 165895 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: attempting liquidation
+    Program log: ready to liquidate
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 65571 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 18550 of 79861 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 45046 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 39225 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 19630 of 54862 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: collateral sold
+    Program log: swap is ok
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 20209 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 14423 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: liquidation complete!
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 122333 of 131765 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 86:
+  Signature: 3p2NHYTYwPjUfbnevCEhkZCckANyMrPbbsmae3XhsdXbKi4iYtiCtn1XjFQKZ2LzbT9o65RiccYLM4pYDWAETnNz
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 172313 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 144493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #4
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 137900 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 133413 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 128416 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 76313 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 87:
+  Signature: 2XREZkN2DGZk4qKn59TMr9SKwXE4q1MZeiBdnhiv2wh9xcVY3vMsgs5p4XhGsc3mkFv6njgRkFuSFpXu7sEYngqG
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 170813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 141493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #5
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 134853 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 130366 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 125369 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 79360 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 87:
+  Signature: 2jYXNvveaa17YdmkgahHUHX9GW7HpHx8knCxk3CWi4zyFVjE4rLtqaybYrB85YeqPUF7NZPWC8q82M3YhnfuxjKw
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 170813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 139993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #6
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 133305 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 128818 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 123821 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 80908 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 88:
+  Signature: 5s1xTjeSw558aAmEkRJCsMhCnquF35bb1PgxDXcKXvjSKZV7qbt79PqbFWFvUsagEUp64JJcbd6o7TT8NfpUd49a
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 170813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 139993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #7
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 133258 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 128771 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 123774 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 80955 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 88:
+  Signature: 44oa5MXHg8VN9zcnmMZ3ZGMyDtjYMXPry2qcqEh17GTNvbeooDiv51pTySki1FDH7bE1VecCdR3AD4MF8CLxBPyg
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 167813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 132493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #8
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 125710 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 121223 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 116226 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 88503 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 88:
+  Signature: 3VwAAeFcJQwerSxTCK9DFfFF5EjzNVxye8cCPpRZq7mq7ttwpqJk1Yq9F9ebRYZFyxRXXsKVeszZ4ittRjRRzpVm
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 172313 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 138493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #9
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 131663 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 127176 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 122179 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 82550 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 89:
+  Signature: k1X5TMysmRvYeMVfETSRRJ4RpeQxD4YhrTmixevH2DBuCFzaVfU2u9iKqrr9WS7pW5c3jkTxCYWEGVcR3bgmnjR
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 166313 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 136993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #10
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 130103 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 125616 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 120619 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 84110 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 89:
+  Signature: 4G864TdHpH4fBBMiXRvktso2gxF2SydFZyPFYM5kzjEVkCUY9Hz9CP3HCtZWdNhrLXM2RbLxoK9YHT8z6vxbFZ5k
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 170813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 132493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #11
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 125556 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 121069 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 116072 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 88657 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 89:
+  Signature: 61jyVYT86xSupi5kPdUtbocEHcJ8btzwk3bZsDZkeqkDD2AYBPUudvZydywBwGZ2WP9RY46MeuwkY4SCubdUCFjh
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 164813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 129493 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #12
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 122508 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 118021 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 113024 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 91705 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 89:
+  Signature: 35gJwG5n4rtQFeBnQrPZB9E2UBFew5uee7m5EWuaPA66J7ifdw9x3gs59qPAfo93Xe98V722UJyqtnn2QL9vUSWq
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 169313 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 136993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #13
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 129961 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 125474 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 120477 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 84252 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 91:
+  Signature: 4xTMUbA1DatXCwXir7bEWm2MRBCayMxWrEs7QkjnxvZovfGUSvEH6PB14wiFA71WsmatPDmTiRNd2mJB7cZhuQG6
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 27383 of 181568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 144071 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 138487 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19294 of 154185 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 96:
+  Signature: 47nLFKSASvCL3ngNdZquviEZ6Bjuqcw7kGYRx3DZKQy4buhZmNw7VKAyNx6tMyxG9RbQ8uPsMRnuyAB2KKdN3Uf1
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 181568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 152144 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 146560 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19280 of 162244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 97:
+  Signature: 5d3XmNj1MNpKTjaR1n7gJjDuekTYnbyEVxusB1d3HWYdSftRS8BGZHEjcJFfN6dy7MkoaPEAYyhVSWWsxUv8Pa66
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 13878 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 177542 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16732 of 186122 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16561 of 169390 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 141174 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somMkfx7J5LIt+yqlCraSOgaiKdIGrU47ZZx6oXkOO/7EvAAEAAAAAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17871 of 152829 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 98:
+  Signature: 4FWWXS7QCvLeCiRbx1BaavJadquRu558XiLK5G1D5P3B3MxYR8PFiTiexAsmvTbW2AnafjELoVPxx4dvjKvruW1W
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 155151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 149567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 165244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 2fSwERCs4mngi4AHgtPWFToPRjw5oPwSte9djeMmQrS5LDb2HD22N5q4iB7XCx52YeZC4FHWfwqgkU9DTXcnUhJc
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 153651 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 148067 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 163744 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 3Li5Zj8UdeHKWH8Nm3NRoY3SfYi4wS1SA7D2AB3oabKjX3ywA3qkeuQRfLUUxCJHQJGpTeWbT931ZsikEU4cWjFQ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 155151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 149567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 165244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 9B1G5NNmaDCqp9mfYtuvjiDdrJKQaHUNK8bC1Mxc3ZnXhAVeDYMVRNr95B6zymdsi36MBZEwftyTyAMhDaW5xPy
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 23237 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 166670 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 161086 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 176763 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 4DNTHYQehn8GB9aUP5j24kgqtzy7uci7Kk6TyTAnCmaSamtpB64E8zE7smrioXCbaNi3HLHHkdAZBdex2diS4ccA
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 153651 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 148067 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 163744 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 5U1XJXEDqhxKerbqx2L4JQpj1tEtJDBwxv5ftDZiMG2aUUhw7WU6DYevMCtCw5U6FT3nJQasch3g8xgP4gXR83KJ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 184568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 155151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 149567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 165244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 4kjQYnLH6RFYkufNCSPgp8h5WhRoSbDsChCZ2LAs9jLRF3Q1FiXvF4LDZVsSTo26WQ6N914FKrVm4zkQHGZmqnMt
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 181568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 152151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 146567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 162244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: eKtnQzPNeXbb849AZzJqf8h7jY8mYsVtR3whYvz2zoey1nFfmgQnSoxmvpZXyG42RCC6Kx1RUtTQSjABVoHZwHL
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 181568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 152151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 146567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 162244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 3VzuxkjWw67uShnWUWTEa9A82NZt81UKvsYrV4zZD4P1dHtafdLcsmH8r7yg2gdLSLPyH4A49BMCziPDxoSfzN6B
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 21432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 178568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 149151 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 143567 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 159244 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 102:
+  Signature: 43o5T3y9iYg18nbXxGJhzm2QyMT2jGeg6adPiwJjBLhA2Hsxqra3rHVFYsyMWPe2yXxwgpSf44crpPq7tbLNu2ML
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19324 of 180068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150651 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 145067 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 160744 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 104:
+  Signature: 3MKH5P3FbgfRnKTkWQi2UdjWTMKAkxvHaouYt6kra7iHbFEBQzTLUKZYoQdjSoHRgnoev9Np8YHkGrkT9zAFWztf
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16894 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 183106 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 147326 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somGC7lTdix+lDu2BaeYEtcGZ7h+gGcAeHhwgMjR0CRFhuAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17905 of 158974 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 8h2nmuMaWda4ZfG19ErhxWSneDJxYtD3pXNx4ZnnDAhkak8TjNLjZNXPdXBDnK1KtWTNh2AjLp9LpDxStDcrv5Q
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 164220 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somMkfx7J5LIt+yqlCraSOgaiKdIGrU47ZZx6oXkOO/7EvAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17864 of 175868 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 3CcYfJA1aa5as8HXR2z2k9toM9WgvzAMvyw8egijFTmmn6jHNLziysiup5pscNnW5h7FQ6MwPGZ1uYwhygwc19FL
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18546 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 181454 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 145674 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somJGIvbz//T5gQGKaipfSWk4DEEzpTkxYLbFmO6IrIfrJAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17946 of 157322 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 3xjAjY1sJE34V4vMf9NqrYkHUAuWkToLGEThu3WAcVLWTTL2hNewxH3s9sHBEEToYXi3PuP1mmKhokZQDGf8EuyJ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18699 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 181301 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 145521 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somFQjgiN04CiXKOrJCDxMuX3zQbPj9VhxAEVShyg+krqLAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17987 of 157169 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: DGV2CTq2jwd1UcTuAtMewCJotPhu4WgbsatGWki52MFcVQWR5iS5Kg1PfBGj2oSsVCdjLhPYvQzrqs2MDGZxbAx
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17351 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 182649 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 146869 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somDXaMME5BWpToN2RMKdcs7cqcQeBPHgyAEHXxNW/ANWnAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18028 of 158517 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 3v7kqLAz5KDd2Gcze6Y7J2vwa3qd3KcCc5KrJo4XYWqRjLAiR9ms6tK2DZwgVvBnoYEBg7BXndUaBkd6jPqktkyW
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19004 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 180996 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 145216 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somIumzNjgqhVTZ43r5I8K1LwVm2DaMdF46ily5csM/oggAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18069 of 156864 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 4qAeqghWNUaBLWntiXvctQZ2x7fwwDiQ9sbSsdMiBGEMqjcrpS9GXHT5UFPevYt8iPBqwVGCqcrQpdei4tKTf7AT
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17656 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 182344 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 146564 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somJwQIe/GagoKbZp7TCeWyGOEPMEi1R8dSjjBvXNn2g0QAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18110 of 158212 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 488CJi4iJ7A93YtEyxkQob4oo5t6WC3bn4vvdMNT5KQtWt5krTwMnACjZvvkrgkVwhL82UYpEy9cEFZgXmkaWUpV
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 23809 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 176191 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 140411 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somII/Zrz2dmxW7yDnrXPraPGiflJMLgDl+htjnONsrRUMAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18151 of 152059 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: rHvV1dJrtrLMFBvgcNtUC3RMgep8kjSPjwZ2zbqvCFGsFinSFNDwyKrZGgCyLnPHhKUdud8UEVWhEggHHs6PDnh
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17961 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 182039 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 146259 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somF2nQ3XeLBzJh+NcNIKLEVcflAXK57GTNKecbNPaeMb1AADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18192 of 157907 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 105:
+  Signature: 3XKaAJj1HCJkk7TngVu58TrBYo5S6vShKuPvPxN9zwxjTrqPqaMmKwJbXoxSBR1GDQsPCatLsRPvq572fgr3HJn
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191420 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18114 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 181886 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 146106 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuuQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somJ9QHjfzg9AF/To5jFBFkniMCCjJ8O/nOXrmTW9MC2ytAADKmjsAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18233 of 157754 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 3i5qukjPJotv3ibPwEQD4Ees5eapTCZa8aFoQdttAYwbRUhHYor4LGC21SNirzGVBon5zbrHFWcTme364Z6ti23x
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 2oyoqmkPZM452TxVg1CpPtGwcJ6NMAbhbiRCWujM4ie7GfmY55y3PD2ywt8fqNFEdgwqqJWzyneoTy4CfC1Sgr8X
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 29ZMTvYL7czEZPW6x3FR9ZeEXFkiNdDzKFnhT3mf7R1Q91mmQE6PdmRfteX41DxTGtxhoKojnfxJSupsvCqysC55
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 5fLzShNmnvn3gAFMmHG52nkdMWB87ZvFWQepFfmSWTD1nHh323ReQrA6QRFBhYmtxJWD7Pqxbog3phHfQgfwxrEu
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 3xv34QpHo9MNc1L87s9XonDQh9bhwMKnUpoUt5ZnT5u93LrMQWWD9imjPmHFhYv7t5QJKAUFMcvceiSJWsevt51D
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 65raymgi82JAJ5ZJk7GLcmaVXeRYQcozUwmx9vs44aYW3undw58Sc5yBiF73Wk18MAK1zmTbQZHeSCWDiL8rtRm1
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: TQ37A8gh1pb4kA16vBLgQrVAMQYQQnktFEdZfW2vt4GDDn46RZB37D7NYtaceAKsobLwxopY6FhGpU5gAvgnqz3
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 2PU5tyiPfQXrBhiLxt43qywmoFwkofKSGARnVs6DaoGioioUmotGqhNQTFSzs9xmhJfH27YkL6TKLCTa3Qav2bFv
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 5QhVAVJSHRWzmqR3Gmwm7TMZ1aopD2Aay1sQoxfDqbxYp9FWqKbdQYrMvm36TQEeTrvQTTmsJ1pqeaCvtWEofwWf
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 106:
+  Signature: 46YvwXcF18FrZxiBTJbBcmNC62ti8H3S94wT4CbfvJpPdNtHBgNXFTGhdCR4urWB6hpyS1jVRbZe85XMXM51toA8
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: anRUhQ2rB3DoyNseQXgZeMLpqN9HQPNoqL2GLoPHnnPAFN7vbGc4moQJHYYsL8ERByJvVLrfwo4xHSuzcu7KgRq
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: qTy7USfDaFrbPudjbq3S2T6CSuPgRXo22yP8yQYpAKe6oQPCtVMoeA5U6t5ELFt6cAkvvAhpoZRreUmM3ZvbsDo
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 2mAsuPA56VSPMgGWvp5gZUwvRkygGJARAhfVdNreFQbK2M5ampt93V4JkEYtzRPGac2wiaxFBvMfnr3fnns4Zeoy
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: oUxmUbpzrCPQZmYiDAzfSyBsNeAYb8MPJPjiCcsuiX2sDLftg2g5hA82ey28ryz44JH5gsPWaCDab3mAhyEtorp
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 22xVqLEFWaeCNC8iXuehrkJGMitEDrcMkQm9dLAkp4y46tsLUpvptKzboppzMUJ7SKXztJJtDeUkUFkEXPhmgmaB
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 383v9GwqTCKVRLyJ3r5V6dW7wyJtuYmjJmGV8R28CquuvY58FCnMtKfnomVyzCRKq2eTBbnnv3G3MMNUgcKsgE31
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 5CbZihs1TtkJ5ZzuwyXd9DtouSJkPAA5QXbmYPwAPwnQF2d1fqxLcbiGF8x91cRKerPUoJx447ozDo4iM5wngQU8
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 5iMRueeRreKyKwWMxrGeASytwXgwbs77ED7RhMfTNnqWn6qj5f9QeYpAXSbRVJQ5waURNZXJgjw3FKL13HqM2nKz
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 2hkoWVf56JKygCpp15FL34DkHMG3wbP1rzcrjc9VQqYcYDVW37xNANFpiHbr4sapuuktariuyubwrejjkkW9pA3J
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 5yPEzo9uqHR92VfqUEzRsGKBsHgCfU4tEvFXMox3hKyTht2Ess6P4Sxnf1xCJjG9oUkJCGVwMmyRSkhU1hin3aai
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 107:
+  Signature: 2GbvJF2KHyRc5a5hhFoHqqgzU6aRQ81eEvjmvkQHu2hYFPPKN5UPvvMwFRe5hyCzX4zxQJXtiRpFUug8gYR413s4
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized loan account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17184 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 27382 of 182816 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 141799 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 112241 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: VgiMztezdsmQuLRjMVfv1+CgSpoCut+/ZHZMGHxksXX7u9h0z6somAsyOylMG3MeEksif3ls/3RN7g0+POVTGPFnxtk0F2aR+8maOwAAAAA=
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 48830 of 155434 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 65Xn4QmtT5q6wctKvJvhfUJv63bdzvyaW4pCyRceSiXBpkgzHEnHWCnbdTX4UaDWbXeyisahh3JFtLfUvCjg9qAA
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 4MRMEgMamtiakT5Gjhu787of6xUnUq9un2TmbkRteU6sAAmuL5G6yk5JxDaLAtsgkQfkvEmWcDuKDXUYTXMhzytu
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 2FwSsomVrLpDBKuDN9y3hANp8GtuT5eH3j8wuJeS4TxzJ9Pc8iS5Zr5BVSUhVkAaJVjfSxn1eGBpq7koP5ySzhNf
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: wiehDHfwHGvyYue6XiFUkx7f9XNbhg2Zz75ubDWw9bKoPNMGF56sVrcYbCYprjmGsZbQUXnJ6yTXgiiPjNGzUMx
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 48ZJivui3zgLfTxcTLpFbu4eqPJLp6AMu34Yzb4igpbuC91uCBfpTLuncqR11RPsziCEDAXukvL6v5e6iDXxnhWb
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: VNVFhqTfFH7AEXns7ijZkKiTsKnW7K4aEVX8RDWxwk83gSxt8Xqt2oazqQX17fk8wvC9sWHEfK5TmV7Mj2efvdA
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 2wWL3ptNGWTb4pgKKDFdJrnPUBKLwVd6xWUhq3xS3P4MWiuEo4kMAYLYq5QYHNnfixYvSrNJzeAcDsVV2gotjpWU
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 2H8JGf1HAaeH3T1q5Rr4RZpsSiDpwDwFVPu6JdPhBQV2VibDAmKcLRuR2fvGwaXEmWveoEBW1GsW341qorSoqQjD
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 4AiLuinv8J3QU25vk7zLt5ASTy4uHw8Pbokg6kMyiDyZJXrdCYQiCQwRapqMBfbvJC8kjFaKTygX4e6gagcG5j7E
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 111:
+  Signature: 511pGgJRLPMaYV43cWA6XG8Hk7qajrJec18e7DTJ2a8HKkrQER7HcUV6cr7J4tP5aCbSQFQfnpn4MA3MUySfYHiZ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 4GyaDpYuGzcAPG2P5Sg9DzAgNhWbrC33Jq5it8ejW72SoJ4g4ezMgwNgCVZjwHZTXKcu877B8HppKBK6Xv9Lm989
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 45u7PTd5pgwrKCEiCxLDbBsdGuTNAr4mBcy3f9ucFym92w84k8XMfPdvQ2YXVCfW2AtmL68fV1iEeWZxgnBEjsxi
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 4ws4oBeyF7zwfTVwYGEw57Cb37sm9FLDdn48eaJPpaMaVwzzMeZPS52RWPdf8DKCRws4nP6jeuG4g7kgrWMVKeXr
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: hTy4dgb2VQjfg96MMZbHTvsXBkPDvShQypy9mEX18bTJJJgPGLdDoHAv1m2kEn9HuqJZ5caAYUfRpjstRnZwyEn
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 5BtPvna2uKWS5P19dqJCGbsSGqmyzJeAmKDWB3o3wzieh4QYwkBtKcJXo4XWF7kuCH8TM1yTmHXnq129fJvKuECT
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 3GiwJVKcg37g136jUjqS9m63uLWBkBQBt8icVQpZedRzwyc5XbUZycLNsi1uzGMKBh5paA2xx97nLueUqUgu1SPi
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 4E3K5HCjeEX5sSsFXGRKVa81nVb7ikt9KNsiPhgjUNhBETPkyYg7Nw7VmknSLCoZqYAouaYgKtS22mwMNCdW2LMY
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 5DUu7rBnYMS3dVx7kqXsMnMu23WBAqnwzRSZkEMF3mL6tQZVWBMfW31kaWyHSqhApPGMjcUpic4Tsf3rUipYnkSx
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: 31Wof6XzSTETJfhnBSgKHL18Gr2srAGAima4vi5vKsicgU6iazAwhy6Qvxeo346885vm8EVjg7HU92xg4vDkfGEK
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 112:
+  Signature: brYgZRRGqAF1xWyQmsmZrPRyKYB2qE5pdgtYJQ1D5e4sJM7yePWYDedf3eJRLpaZcXJCr1xgHDddi51QB13dbaE
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24132 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 113:
+  Signature: 3uByHUMT8x97wYqyu4p1U2vSwSQWL4bBbPFmMTpzXdtGUSuER3Zb8WEfsrdTFus1qn1tScu3e79mN9FKMsfkAeLp
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 27403 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 172597 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: attempting liquidation
+    Program log: ready to liquidate
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 74738 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 15515 of 85993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 54213 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 48392 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 19630 of 64029 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: collateral sold
+    Program log: swap is ok
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 29376 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 23591 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: liquidation complete!
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 136520 of 155141 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 113:
+  Signature: 4atsmW9xck4FN8mAHY9GVm8BeusUReudj1vSmP6uKF5ASjVFBzq3FJXB56nHBcVwxwYHxEzxmyKnhxpwG6GBydsi
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 176750 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 26858 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17456 of 173142 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: attempting liquidation
+    Program log: ready to liquidate
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 75755 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 15515 of 87010 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 55230 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 49409 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 19630 of 65046 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: collateral sold
+    Program log: swap is ok
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 30330 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 24545 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: liquidation complete!
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 136111 of 155686 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 127:
+  Signature: 5P4KJ2XB6sQAPgkA716iAFMG8oLwrQCoy7V2rdHYcU4tzGpgYiRxVFSvuMveZkajcr4dsoYvHjxrJPVgFbd9BCG3
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: market initialized with currency USD
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 5387 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 138:
+  Signature: kU2Li9bG9fdh1G1nysMdMFo19SoFh8JV71tzgJt2yEDzwqRqe4MoGuRzQb2MCzjEJCztNvZLF4aZ7BKAAVpb4PV
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189335 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 169388 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: registered reserve #0
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 137821 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 133334 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 128337 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 76371 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 139:
+  Signature: 5wfgL1EoFRHPw7RTNN5HEbqwcTaKHvybU1QmA5adFM65V3pqW8gUJAwuRBuCPvxsZzyiAzSrcApLLvWMtNN17HqM
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 189260 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 164813 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin invoke [2]
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin consumed 3371 of 130993 compute units
+    Program 9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin success
+    Program log: registered reserve #1
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 124543 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2391 of 120056 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 115059 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 89670 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 140:
+  Signature: 44LbQDSSnm5YHM1sckZpi4guygbxPx28bXW8Sxf7bYhqiwYWQXJaN1opmTxt4qmySnw11EFTFtVTS9atiWMsvp5
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 1340 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 141:
+  Signature: 3bRHJN5BMPWfVNbm4LH9Bm749Z8jbAN1Qmd338u2DAv3jhgcGd9YwkqdTi7gQwRJRmSXAXJJpDCjzdXg921yKuUJ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 1340 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 142:
+  Signature: 5ZkY9XBxsKpSF7HMXv3fx1ouGxAFTF3XXSUpH54ULYGBzPfqE7cB8gacQdANQ1SJuSjwD3f19zfbX19Lotgn7yUg
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18432 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19909 of 181568 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 151476 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 145892 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19363 of 161659 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 143:
+  Signature: 5pFLuHb3kQ1Z8iiMcKntsokuVVEGPpdLhche94V97gTyPedXfWSjCGRAK6kh8wxa4E2NdGpNf4uj8S7FYdqy2NDv
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 7878 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 183542 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19780 of 192122 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 172342 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 137904 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEuvkIOCpMZ+DiCTof5rfOzy1I/4INwnmRf+qYoXWPDJQCdsqDV0/8gxvGKLRJX+RVFlsvNLd+Ik7M5dPOTD1kBgdAQAQpdToAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 15938 of 147625 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 144:
+  Signature: 3eZThkSCzw2TVWeiCgtMj1av1AMu4YFVBozqR2fKsQqn8ipDscaq4yKk1LAQehogwPor9amgW6RvoT9H2j7NVGBv
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191810 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized deposit account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 16932 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19909 of 183068 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 153066 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 147482 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19273 of 163159 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 145:
+  Signature: 7gqnAb8AkYu8MEJMbetmctWPzSDYBSemKkkaKS6KQZyHVo3xfbF9quiLGA3duTCNK4qQHp3FqUhe5Sd5ue5ygVT
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: initialized obligation account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 7878 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 183542 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized collateral account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 22723 of 192122 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 169399 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 133034 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: qQ5mlJuJEusRMeYC0nfkYxewN1VTIDe5VreUXAHcFMyG7xiWIv1ivpeTfO3FBSfhQ/kJ2RO5KbFY7mROlCQGa/oUDORC9s0BAIBgjZ4CAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17865 of 144682 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 146:
+  Signature: 53S3QyCGUEdtgrG37CePiJ4zGE2GvryMRRCho4juNHSKUVkLovvivdSTotWzkmZk4nUJvTJXzJ3LznyqDJWf4L68
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 1340 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 147:
+  Signature: GnqnyFLUszz64qdBZEwvbP9TCq8JzPMnrniGPGanYmiJdqQeSvm2yLQvcxUMCoMR19sKmEjNUVeXR9VJbcUQqK9
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 148:
+  Signature: 3FuZCbpXGw5BHY4SjNXy19Dg8hh4fXcrNacp2MMjKMqWmXXESXzA89t2PUEAZK6CCdVano3qhJYBtJnahuooHonw
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 1340 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 151:
+  Signature: vUt5wsqWb5Ayv5vtQG7CXhURkRrmQdi4SkaJykurykRkMmq3eMsC9ViS6onczcy7t86RCcAh12XMrDq73jJwgnY
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 152:
+  Signature: TStX6Vvk5xy8AnnytHQQp4wSCHEaxRLT8eSQ66aaVAkw8h4Bffh3NB4k3SDKFZo83jAWcvvYbrHuHN4sjVk9a35
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3449 of 191422 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: initialized loan account
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18314 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 25003 of 181686 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 143054 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 131586 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: VgiMztezdskRMeYC0nfkYxewN1VTIDe5VreUXAHcFMyG7xiWIv1ivtsqDV0/8gxvGKLRJX+RVFlsvNLd+Ik7M5dPOTD1kBgdAEhmc7oAAAA=
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 30734 of 156683 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 154:
+  Signature: 2niW6fLsHLQA4hxKYJJysW57KyP5EyYyytTxD6WnTQBqWwxK2JXq6E2b88Jz6iTVcziLVaLTV3gTGZkkKwHTVyaf
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 159:
+  Signature: 24BrLoQhMeKXnathJfxLfDTLWMVtXk3nUTLrTLZJBb9TexhUkvAYjqHcCwYkkxVoXTYYXyYPHNHimH7wxwgMQrXb
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169213 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34395 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 160:
+  Signature: 64h831e8ojk8Z5HAaeYwebs5F7Whin3X4wGfdoZsoe3YisQx4KduvM4zguGYbnxENR284SHsy1VG8oK6vSY9qEvE
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169206 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34402 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 161:
+  Signature: 2FSkK1FMgMcUeYjDEoZgDCJ55HEGJV7eKDV4feSRK8QG8fRmLD9GSBG53rk7XHAsEoLyL89R4tb3yKJuy3xLhxkz
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 163535 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: kSYuV76V/b8RMeYC0nfkYxewN1VTIDe5VreUXAHcFMyG7xiWIv1ivpeTfO3FBSfhQ/kJ2RO5KbFY7mROlCQGa/oUDORC9s0BAKARhyEAAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 23509 of 175283 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 162:
+  Signature: 3Gtc1DXuzz532CYq37RzHzseC4snVJNdyuNPqjKjPH8yjJxHxWNFum4VwMmP5pKG3FkCVZkFFDfJm2wsBodRA6ii
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 165060 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 159460 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19407 of 175283 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 163:
+  Signature: 2MZLhKys6Y5F7pS2Cn4pGMD8FfX2QmfUtDTQAuz7QMtPDihdmUHUG8Bytz7qMvzQeLFwfs9rSxGBbjHnNemJtwhR
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169190 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34418 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 168:
+  Signature: 4RKLW4aTW53wqe9qDFt8uj8KcZkDXc1EHrWqm8rRuQmNrRwQJwrF9qCa2chTG5Azebhv9rmZWmTLzkLDDmiASNEH
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169213 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34395 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 169:
+  Signature: 4HkKkDo3PyJTAe9aDAQCRrYL8JtHjKcUf3K7viV1y45RvsPwhsTGWcZNBzrUUZH1uLKghWySc3mBkFRh3dtNX9zW
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 1340 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 170:
+  Signature: 5z17wzMSRj8gGQgyN7w645TW7QdW5HjDtknL3Pvx5eH59VV4J5Mn2UQ4cQvYStwEEQavuJH37niyMpA1oE57QFrz
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 1340 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 171:
+  Signature: 5qCRyHYUy6Sygdg7cus74nKyYDnCnvYak8u9NdpcX35ijd788UefLd5YhKbp7YCMxrWcfyDk7W7yDZ9ZXp1ofqpQ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169203 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34405 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 155941 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 150636 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: gdUAbNpsUowRMeYC0nfkYxewN1VTIDe5VreUXAHcFMyG7xiWIv1ivtsqDV0/8gxvGKLRJX+RVFlsvNLd+Ik7M5dPOTD1kBgdAgDodkgXAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 21946 of 165595 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 172:
+  Signature: nCD9heUgQKyz3VQj6bkuWmM39V49Pu3DfUU9qjqw2kgHUJEjf38H5oAgfyX5kXozRj1F3BztQwcg8jcGcmR2iNK
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 173:
+  Signature: 3juBfyehxfCgZsuEz3JeZSZyWe6bs91Dyz4bQ1Rzj2yJkKddnCh8NfDqHhuxbVsD629gyfmKFbQwPSF8rchKEjth
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 169190 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 34418 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 155862 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: kSYuV76V/b/kIOCpMZ+DiCTof5rfOzy1I/4INwnmRf+qYoXWPDJQCdsqDV0/8gxvGKLRJX+RVFlsvNLd+Ik7M5dPOTD1kBgdAQDQ7ZAuAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 18423 of 165582 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 174:
+  Signature: ew59gq7CZ7aQBA22bnVRm2XFidyEkfqhxcBhJGkTqS8dWoryG2gkCJPDq1L1CtiupScEmGn2Gy7pf7GagGERiqw
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19844 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 170035 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 164435 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19305 of 180156 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 175:
+  Signature: 62iqqFfK43GHUfWXxK5sR1uH2wpXYhys5hPfLU4RhNM8nbhxSiqgKv2mUX2T4gmD9uwCiiEtdhTgQXJeAFrvWzt5
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2883 of 168086 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 35522 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 154838 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 149533 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: gdUAbNpsUowRMeYC0nfkYxewN1VTIDe5VreUXAHcFMyG7xiWIv1ivtsqDV0/8gxvGKLRJX+RVFlsvNLd+Ik7M5dPOTD1kBgdAgBg7yqjAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 21964 of 164478 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 176:
+  Signature: 4khx6kLJhTVjTQT342asuagUKQstbUQhunjXN4LNRqQLFAkoRMz1zrt9gNvRJTqAQME5vbQcbwtS3THrtEdLp3qU
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17743 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 177:
+  Signature: Z4P8rKL7nXTEdbzCGkQ35BbxYosZXN19fneFYsEtYrRuoT5HjwcMXAhBxf7L5atvWNootUGUJUdy4begTi678KQ
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 163532 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: kSYuV76V/b8RMeYC0nfkYxewN1VTIDe5VreUXAHcFMyG7xiWIv1ivpeTfO3FBSfhQ/kJ2RO5KbFY7mROlCQGa/oUDORC9s0BAOBOBn0CAAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 22094 of 175283 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 178:
+  Signature: 4yifh6GAGsN1969AqTPt9f7edjpQjfzQKQNmWyGCwxvzuVaibp4gGCV5aNGNQjbzB3Q9HbcsDEKN58QfXoQmCyyT
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 24717 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 165057 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 159457 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19410 of 175283 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 179:
+  Signature: 4LQKAwtvFibFnB8VNGp1igEPgAM4KsGdkNUL383FxpurqyXU7ERXEaBTWyCMSxUtybnLYFUAQHn3bcXjzCSRe5s2
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 12648 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 180:
+  Signature: MD76WAQWi9bpP668oHqmSHNCtvp835mst69TMvy1gTir6Da6BSE1jpxmnTbbSR8MYzF7VuKH78V6Y8wxwQvDhpn
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 25004 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 165276 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: kSYuV76V/b/kIOCpMZ+DiCTof5rfOzy1I/4INwnmRf+qYoXWPDJQCdsqDV0/8gxvGKLRJX+RVFlsvNLd+Ik7M5dPOTD1kBgdAQBAt0O6AAAA
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17825 of 174996 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 181:
+  Signature: 4kDDezrrJxVXWZAADRdchLJk1rfnEnnFZVm4Lss3E52srFwoxnhdGFriBXLb5NTz5RLsWLEXJQGYicmZ9p33Mtai
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program log: reserve refreshed
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 17743 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 172119 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Burn
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2870 of 166519 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 19322 of 182257 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success
+Transaction executed in slot 182:
+  Signature: ZswHozNJ9sh7qCt7EZk6bBLMF2viyGqENkSSzCGRvvWVc4cGKSBKTvkwTRoNAZmg7moDAVwMtfHnFSer4TKAJRt
+  Status: Ok
+  Log Messages:
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk invoke [1]
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk consumed 2103 of 200000 compute units
+    Program 4XNgKWTqzddrR5AoKRusqceLCq9efr4T1iZpVkpndPTk success

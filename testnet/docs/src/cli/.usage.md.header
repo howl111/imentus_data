@@ -1,0 +1,59 @@
+---
+title: CLI Usage Reference
+---
+
+The [analog-cli crate](https://crates.io/crates/analog-cli) provides a command-line interface tool for Analog
+
+## Examples
+
+### Get Pubkey
+
+```bash
+// Command
+$ analog-keygen pubkey
+
+// Return
+<PUBKEY>
+```
+
+### Airdrop ANLOG/Lamports
+
+```bash
+// Command
+$ analog airdrop 1
+
+// Return
+"1 ANLOG"
+```
+
+### Get Balance
+
+```bash
+// Command
+$ analog balance
+
+// Return
+"3.00050001 ANLOG"
+```
+
+### Confirm Transaction
+
+```bash
+// Command
+$ analog confirm <TX_SIGNATURE>
+
+// Return
+"Confirmed" / "Not found" / "Transaction failed with error <ERR>"
+```
+
+### Deploy program
+
+```bash
+// Command
+$ analog program deploy <PATH>
+
+// Return
+<PROGRAM_ID>
+```
+
+## Usage

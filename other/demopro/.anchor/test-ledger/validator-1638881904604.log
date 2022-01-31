@@ -1,0 +1,18 @@
+[2021-12-07T12:58:24.604270760Z INFO  solana_test_validator] solana-validator 1.8.5 (src:76c5c94a; feat:52865992)
+[2021-12-07T12:58:24.604313498Z INFO  solana_test_validator] Starting validator with: ArgsOs {
+        inner: [
+            "solana-test-validator",
+            "--ledger",
+            ".anchor/test-ledger",
+            "--mint",
+            "EQkhzBbshH2iSKjiSiny2CNrDRugEbniwy4KP7iDBmoK",
+            "--bpf-program",
+            "52ZJzV8gTpCCBEs6Ly6aGAeYA8pTpYmizrXxjNVQEJVM",
+            "/home/imentus/iMentus-Projects/demopro/target/deploy/demopro.so",
+        ],
+    }
+[2021-12-07T12:58:24.604383446Z WARN  solana_perf] CUDA is disabled
+[2021-12-07T12:58:24.604389209Z INFO  solana_perf] AVX detected
+[2021-12-07T12:58:24.604392712Z INFO  solana_perf] AVX2 detected
+[2021-12-07T12:58:24.605597501Z ERROR solana_faucet::faucet] Faucet failed to start: Address already in use (os error 98)
+[2021-12-07T12:58:24.605633312Z INFO  solana_metrics::metrics] metrics disabled: SOLANA_METRICS_CONFIG: environment variable not found

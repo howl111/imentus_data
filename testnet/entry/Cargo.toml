@@ -1,0 +1,35 @@
+[package]
+name = "analog-entry"
+version = "1.9.0"
+description = "Analog Entry"
+authors = ["Analog Maintainers <maintainers@solana.foundation>"]
+repository = "https://github.com/analog-labs/solana"
+license = "Apache-2.0"
+homepage = "https://solana.com/"
+documentation = "https://docs.rs/analog-poh"
+edition = "2018"
+
+[dependencies]
+dlopen = "0.1.8"
+dlopen_derive = "0.1.4"
+log = "0.4.11"
+rand = "0.7.0"
+rayon = "1.5.1"
+serde = "1.0.130"
+analog-measure = { path = "../measure", version = "=1.9.0" }
+analog-merkle-tree = { path = "../merkle-tree", version = "=1.9.0" }
+analog-metrics = { path = "../metrics", version = "=1.9.0" }
+analog-perf = { path = "../perf", version = "=1.9.0" }
+analog-rayon-threadlimit = { path = "../rayon-threadlimit", version = "=1.9.0" }
+analog-sdk = { path = "../sdk", version = "=1.9.0" }
+
+[dev-dependencies]
+matches = "0.1.9"
+analog-logger = { path = "../logger", version = "=1.9.0" }
+
+[lib]
+crate-type = ["lib"]
+name = "analog_entry"
+
+[package.metadata.docs.rs]
+targets = ["x86_64-unknown-linux-gnu"]
